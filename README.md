@@ -1,1 +1,2 @@
-# CSE-598-DSOD-Assignment-2
+# DSOD-Assignment-2
+Bank service application is ASP.NET
